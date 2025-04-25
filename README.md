@@ -17,7 +17,7 @@ This happens because the app is not signed with an Apple Developer certificate. 
 
 To run GitStreak anyway:
 
-1. Go to System Preferences (or System Settings) → Security & Privacy → General
+1. Go to System Preferences (or System Settings) → Privacy & Security
 2. Look for the message about GitStreak being blocked and click "Open Anyway"
 
 ![Security Settings](public/settings.png)
