@@ -1,8 +1,8 @@
 cask "gitstreak" do
   version "1.0.0"
-  sha256 ""
+  sha256 "eaf96ea5b125e0ef7d6af21625d70fe14bba104e46a76fa5a22a36f2a8edd5d2"
 
-  url "https://github.com/madrzak/GitStreak/releases/download/v#{version}/GitStreak-#{version}.zip"
+  url "https://github.com/madrzak/homebrew-gitstreakapp/releases/download/v#{version}/GitStreak-#{version}.zip"
   name "GitStreak"
   desc "Menu bar app for tracking GitHub commit streaks"
   homepage "https://github.com/madrzak/GitStreak"

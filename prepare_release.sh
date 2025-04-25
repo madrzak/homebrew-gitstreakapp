@@ -8,7 +8,7 @@ APP_NAME="GitStreak"
 APP_DIR="build/${APP_NAME}.app"
 ZIP_NAME="${APP_NAME}-${VERSION}.zip"
 ZIP_PATH="build/${ZIP_NAME}"
-CASK_FILE="GitStreak.rb"
+CASK_FILE="Casks/gitstreak.rb"
 
 # === 1. Package the app ===
 echo "📦 Packaging ${APP_DIR} into ${ZIP_PATH}..."
