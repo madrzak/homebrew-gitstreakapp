@@ -3,6 +3,6 @@
 ### Via Homebrew (Recommended)
 
 ```bash
-brew tap madrzak/convertfast
-brew install --cask convertfast
+brew tap madrzak/gitstreakapp
+brew install --cask gitstreakapp
 ```
