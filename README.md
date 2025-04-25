@@ -4,5 +4,5 @@
 
 ```bash
 brew tap madrzak/gitstreakapp
-brew install --cask gitstreakapp
+brew install --cask gitstreak
 ```
