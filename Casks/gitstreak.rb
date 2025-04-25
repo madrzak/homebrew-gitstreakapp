@@ -5,7 +5,7 @@ cask "gitstreak" do
   url "https://github.com/madrzak/homebrew-gitstreakapp/releases/download/v#{version}/GitStreak-#{version}.zip"
   name "GitStreak"
   desc "Menu bar app for tracking GitHub commit streaks"
-  homepage "https://github.com/madrzak/GitStreak"
+  homepage "https://github.com/madrzak/homebrew-gitstreakapp"
 
   depends_on macos: ">= :monterey"
 
